@@ -1,6 +1,6 @@
 <div align = "center">
   
-# Sanjiv Umahanker
+# Sanjiv Umashanker
 
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWcyeDF5emh2ZDNmZm9yenljYzdpbG1lOXppODQ1ZXRtcnA5aXBvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IiqPM9dxyQWMiD3K3C/giphy.gif" width="35%" />
@@ -73,6 +73,7 @@ iOS app for speech dyspraxia support, featuring OpenAI-powered feedback voiceove
 
 - 🌐 Portfolio: [sanj1vumashank1r.vercel.app](https://sanj1vumashank1r.vercel.app/)
 - 💻 GitHub: [@sanjivu1207](https://github.com/sanjivu1207)
+- 📧 Email: Suma30asp@gmail.com
 
 ---
 
