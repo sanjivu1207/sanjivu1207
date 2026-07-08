@@ -2,7 +2,8 @@
   
 # Hello, I'm Sanjiv 👋
 
-<img src="https://media2.giphy.com/media v1.Y2lkPTc5MGI3NjExdzY1Zm02NXU0OHJkZTF1a2JmZGk5MTV4NjVmaXRmMWViYmlmeDI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/36JODL9C4bMRbiKhaw/giphy.gif" width="300">
+
+<img src="https://media3.giphy.com/media/z2YiftHRaPbWw/giphy.gif" width="35%" />
 
 </div>
 
