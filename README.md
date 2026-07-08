@@ -1,5 +1,8 @@
-
 # Hi, I'm Sanjiv 👋
+
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycnRnYjZvaWc3cW1jaDViNzExOTdzYmZvcWV1dm91NWZzaXBiMHJldyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/36JODL9C4bMRbiKhaw/giphy.gif" width="300">
+</p>
 
 **Building intelligent systems at the intersection of research and production.**
 
