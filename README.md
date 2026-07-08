@@ -5,6 +5,7 @@
 <img src="https://media2.giphy.com/media v1.Y2lkPTc5MGI3NjExdzY1Zm02NXU0OHJkZTF1a2JmZGk5MTV4NjVmaXRmMWViYmlmeDI0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/36JODL9C4bMRbiKhaw/giphy.gif" width="300">
 
 </div>
+
 **Building intelligent systems at the intersection of research and production.**
 
 I'm a Machine Learning Engineer studying at The University of Texas at Austin (B.S. Informatics, College of Natural Sciences). I specialize in deep learning, NLP, and building systems that scale — clean pipelines, reproducible experiments, and production-grade software, not just notebooks.
