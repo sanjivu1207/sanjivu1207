@@ -15,7 +15,7 @@ Outside of work: running, reading, basketball, golf, music, and public speaking.
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Tech Stack
 
 **Languages**
 `Python` `JavaScript` `TypeScript` `Java` `C++` `C#` `SQL` `Bash`
