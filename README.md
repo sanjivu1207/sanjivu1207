@@ -9,7 +9,7 @@
 
 **Building intelligent systems at the intersection of research and production.**
 
-I'm a Machine Learning Engineer studying at The University of Texas at Austin (B.S. Informatics, College of Natural Sciences). I specialize in deep learning, NLP, and building systems that scale — clean pipelines, reproducible experiments, and production-grade software, not just notebooks.
+I'm a Machine Learning Engineer studying at The University of Texas at Austin (B.S. Informatics with Minor in Computer Science and Statistics and Data Science, College of Natural Sciences). I specialize in deep learning, NLP, and building systems that scale — clean pipelines, reproducible experiments, and production-grade software, not just notebooks.
 
 Outside of work: running, reading, basketball, golf, music, and public speaking.
 
