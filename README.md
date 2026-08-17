@@ -55,6 +55,9 @@ Outside of work: running, reading, basketball, golf, music, and public speaking.
 
 ## 🚀 Projects
 
+### [AetherWatch](https://github.com/sanjivu1207/AetherWatch)
+A CNN that classifies a drone's control/video link technology (DJI OcuSync, DJI Lightbridge, DJI Enhanced Wi-Fi, Parrot's Wi-Fi FPV link) from its raw RF spectrogram, not just detecting drone presence.
+`Python` `PyTorch` `NumPy/SciPy` `Matplotlib` `Git` `YAML` 
 ### [EduFocus](https://github.com/sanjivu1207/EduFocus.git)
 Web app using AI to help kids with ADHD learn — detects distractions with 83% accuracy (OpenCV) and reduces distractions by 28% / improves task performance by 32% (n=25, PyTorch model).
 `Python` `PyTorch` `OpenCV` `NumPy` `TensorFlow`
